@@ -1,4 +1,4 @@
-# Eazy Pay
+# Easy Pay
 
 A Latest and Morden Way of Online Payment
 
