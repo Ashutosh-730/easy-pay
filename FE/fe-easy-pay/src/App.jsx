@@ -6,7 +6,7 @@ function App() {
 
   const fetchData = async () => {
     try {
-      const response = await fetch('http://localhost:8080/admin/dashboard');
+      const response = await fetch('http://localhost:8080/customer/profile');
       const data = await response.json();
       setResponseData(responseData === "" ? data : "");
     } catch (error) {
